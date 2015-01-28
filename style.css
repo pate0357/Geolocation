@@ -1,0 +1,16 @@
+#header {
+    padding-top: 1%;
+    background-color: black;
+    color: white;
+    padding-left: 35%;
+}
+
+#output {
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+#myCanvas {
+    margin-left: 35%;
+    margin-top: 2%;
+}

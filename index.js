@@ -58,7 +58,7 @@ function drawimage(lat, lon) {
         var img = document.createElement("img");
 
         img.onload = function () {
-            context.drawImage(img, 10, 10);
+            context.drawImage(img, 0, 0);
 
         };
 
