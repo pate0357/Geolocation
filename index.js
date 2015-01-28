@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (navigator.geolocation) {
         //code goes here to find position
         var params = {
-            enableHighAccuracy: true,
+            enableHighAccuracy: false,
             timeout: 3600,
             maximumAge: 0
         };
